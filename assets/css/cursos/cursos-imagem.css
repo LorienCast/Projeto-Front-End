@@ -1,0 +1,9 @@
+.cursos__imagem {
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 15%;
+    height: 300px;
+    margin: 0 auto;
+    width: 300px;
+}

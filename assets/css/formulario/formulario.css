@@ -1,0 +1,30 @@
+.formulario{
+    padding: 5rem;
+    text-align: center;
+    background: #bfbfbf;
+
+}
+.nome{
+    color: #8d0606;
+    font-family: Pacifico, cursive;
+    font-size: 1.1875rem;
+    margin-bottom: 1rem; 
+}
+.email{
+    color: #8d0606;
+    font-family: Pacifico, cursive;
+    font-size: 1.1875rem;
+    margin-bottom: 1rem; 
+}
+.duvidas{
+    color: #8d0606;
+    font-family: Pacifico, cursive;
+    font-size: 1.1875rem;
+    margin-bottom: 1rem; 
+}
+input{
+    width: 400px;
+}
+textarea{
+    width: 400px;
+}

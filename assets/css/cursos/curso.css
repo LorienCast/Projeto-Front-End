@@ -1,0 +1,20 @@
+.curso{
+    padding: 2rem;
+    text-align: center;
+    display: inline-block;
+}
+@media screen and (min-width: 0) {
+    .curso {
+        margin-bottom: 2rem;
+    }
+}
+
+@media screen and (min-width: 768px) {
+    .curso {
+        margin-bottom: 0;
+    }
+}
+
+@media screen and (min-width: 992px) {
+    
+}
