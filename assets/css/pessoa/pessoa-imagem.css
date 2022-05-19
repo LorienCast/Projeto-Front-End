@@ -1,0 +1,27 @@
+.pessoa__imagem {
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 100%;
+    height: 200px;
+    margin: 0 auto;
+    width: 200px;
+}
+.pessoa__imagem--eduarda {
+    background-image: url('../../img/pessoas/eduarda.jpeg');
+}
+.pessoa__imagem--fabrizio{
+    background-image: url('../../img/pessoas/fabrizio.jpg');
+}
+.pessoa__imagem--lauren{
+    background-image: url('../../img/pessoas/lauren.jpeg');
+}
+.pessoa__imagem--marcos{
+    background-image: url('../../img/pessoas/marcos.jpeg');
+}
+.pessoa__imagem--micael{
+    background-image: url('../../img/pessoas/micael.jpg');
+}
+.pessoa__imagem--pedro{
+    background-image: url('../../img/pessoas/pedro.jpeg');
+}
